@@ -3,5 +3,5 @@ A minecraft datapack that shows the durability of items. It works by looking upp
 ## Installation
 Extract "Durability Hud" zip file or folder into %appdata%\Roaming\ .minecraft\saves\WORLDNAME\datapacks
 ## Links
-* [Planetminecraft](https://planetminecraft.com/mod/durability-hud)
-* [CurseForge](https://curseforge.com/minecraft/customization/durability)
+* [Durability Hud on Planetminecraft](https://planetminecraft.com/mod/durability-hud)
+* [Durability Hud on CurseForge](https://curseforge.com/minecraft/customization/durability)
