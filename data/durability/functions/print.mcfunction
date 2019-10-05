@@ -1,0 +1,3 @@
+execute if data entity @s SelectedItem.tag.Damage run title @s actionbar [{"score":{"name":"@s","objective":"itm.output"}}]
+execute as @s[scores={itm.output=..5}] if data entity @s[] SelectedItem.tag.Damage run title @s actionbar [{"text":"Warning ","bold":true},{"score":{"name":"@s","objective":"itm.output"}},{"text":" Durability"}]
+execute unless data entity @s SelectedItem.tag.Damage run title @s actionbar {"text":" "}
