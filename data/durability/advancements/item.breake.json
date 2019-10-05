@@ -1,0 +1,16 @@
+{
+    "rewards": {
+        "function": "durability:item.breake"
+    },
+    "criteria": {
+        "item.breake": {
+            "trigger": "item_durability_changed",
+            "conditions": {
+                "durability": {
+                    "max": 0
+                  }
+            }
+        }
+    }
+}
+}
