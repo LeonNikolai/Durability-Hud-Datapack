@@ -6,6 +6,7 @@ Extract "Durability Hud" zip file or folder into %appdata%\Roaming\ .minecraft\s
 * [Durability Hud on Planetminecraft](https://planetminecraft.com/mod/durability-hud)
 * [Durability Hud on CurseForge](https://curseforge.com/minecraft/customization/durability)
 
+![Example Gif](https://media.giphy.com/media/iFmqKlMh30gHKcVxzI/giphy.gif)
 ![Example Gif](https://media.giphy.com/media/fUqiW1LhOkTJcNxdpj/giphy.gif)
 ![Example Gif](https://media.giphy.com/media/UqezqrR5BeMCnBIp67/giphy.gif)
-![Example Gif](https://media.giphy.com/media/iFmqKlMh30gHKcVxzI/giphy.gif)
+
