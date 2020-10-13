@@ -1,5 +1,7 @@
 # Durability-Hud-Datapack
 A minecraft datapack that shows the durability of items in offhand and mainhand.
+
+[Download](https://github.com/LeonNikolai/Durability-Hud-Datapack/releases)
 ## Installation
 ### Pre-existing world
 1. Extract the datapack zip file or folder into the datapack folder in your world files.<br>
