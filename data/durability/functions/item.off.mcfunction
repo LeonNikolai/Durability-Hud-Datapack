@@ -1,67 +1,68 @@
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:bow"}]}] itm.off.dr 384
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:crossbow"}]}] itm.off.dr 326 
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:trident"}]}] itm.off.dr 250
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:elytra"}]}] itm.off.dr 432
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:shield"}]}] itm.off.dr 336
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:shears"}]}] itm.off.dr 238
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:carrot_on_a_stick"}]}] itm.off.dr 25
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:warped_fungus_on_a_stick"}]}] itm.off.dr 100
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:flint_and_steel"}]}] itm.off.dr 64
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:fishing_rod"}]}] itm.off.dr 64
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:wooden_pickaxe"}]}] itm.off.dr 59
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:wooden_axe"}]}] itm.off.dr 59
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:wooden_sword"}]}] itm.off.dr 59
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:wooden_shovel"}]}] itm.off.dr 59
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:wooden_hoe"}]}] itm.off.dr 59
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:stone_pickaxe"}]}] itm.off.dr 131
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:stone_axe"}]}] itm.off.dr 131
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:stone_sword"}]}] itm.off.dr 131
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:stone_shovel"}]}] itm.off.dr 131
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:stone_hoe"}]}] itm.off.dr 131
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_pickaxe"}]}] itm.off.dr 250
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_axe"}]}] itm.off.dr 250
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_sword"}]}] itm.off.dr 250
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_shovel"}]}] itm.off.dr 250
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_hoe"}]}] itm.off.dr 250
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_pickaxe"}]}] itm.off.dr 32
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_axe"}]}] itm.off.dr 32
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_sword"}]}] itm.off.dr 32
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_shovel"}]}] itm.off.dr 32
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_hoe"}]}] itm.off.dr 32
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_pickaxe"}]}] itm.off.dr 1561
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_axe"}]}] itm.off.dr 1561
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_sword"}]}] itm.off.dr 1561
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_shovel"}]}] itm.off.dr 1561
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_hoe"}]}] itm.off.dr 1561
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_helmet"}]}] itm.off.dr 364
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_chestplate"}]}] itm.off.dr 529
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_leggings"}]}] itm.off.dr 496
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond_boots"}]}] itm.off.dr 430
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_helmet"}]}] itm.off.dr 166
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_chestplate"}]}] itm.off.dr 241
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_leggings"}]}] itm.off.dr 226
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:iron_boots"}]}] itm.off.dr 196
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:chainmail_helmet"}]}] itm.off.dr 165
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:chainmail_chestplate"}]}] itm.off.dr 240
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:chainmail_leggings"}]}] itm.off.dr 225
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:chainmail_boots"}]}] itm.off.dr 195
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_helmet"}]}] itm.off.dr 78
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_chestplate"}]}] itm.off.dr 113
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_leggings"}]}] itm.off.dr 92
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:golden_boots"}]}] itm.off.dr 1561
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:leather_helmet"}]}] itm.off.dr 56
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:leather_chestplate"}]}] itm.off.dr 81
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:leather_leggings"}]}] itm.off.dr 76
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:leather_boots"}]}] itm.off.dr 66
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:turtle_helmet"}]}] itm.off.dr 276
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_sword"}]}] itm.off.dr 2031
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_axe"}]}] itm.off.dr 2031
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_hoe"}]}] itm.off.dr 2031
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_shovel"}]}] itm.off.dr 2031
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_pickaxe"}]}] itm.off.dr 2031
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_helmet"}]}] itm.off.dr 407
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_chestplate"}]}] itm.off.dr 592
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_leggings"}]}] itm.off.dr 555
-scoreboard players set @s[nbt={Inventory:[{Slot:-106b,id:"minecraft:netherite_boots"}]}] itm.off.dr 481
+execute if predicate item_check:offhand/bow run scoreboard players set @s itm.off.dr 384
+execute if predicate item_check:offhand/crossbow run scoreboard players set @s itm.off.dr 326 
+execute if predicate item_check:offhand/trident run scoreboard players set @s itm.off.dr 250
+execute if predicate item_check:offhand/shield run scoreboard players set @s itm.off.dr 336
+execute if predicate item_check:offhand/shears run scoreboard players set @s itm.off.dr 238
+execute if predicate item_check:offhand/carrot_on_a_stick run scoreboard players set @s itm.off.dr 25
+execute if predicate item_check:offhand/warped_fungus_on_a_stick run scoreboard players set @s itm.off.dr 100
+execute if predicate item_check:offhand/flint_and_steel run scoreboard players set @s itm.off.dr 64
+execute if predicate item_check:offhand/fishing_rod run scoreboard players set @s itm.off.dr 64
+execute if predicate item_check:offhand/wooden_pickaxe run scoreboard players set @s itm.off.dr 59
+execute if predicate item_check:offhand/wooden_axe run scoreboard players set @s itm.off.dr 59
+execute if predicate item_check:offhand/wooden_sword run scoreboard players set @s itm.off.dr 59
+execute if predicate item_check:offhand/wooden_shovel run scoreboard players set @s itm.off.dr 59
+execute if predicate item_check:offhand/wooden_hoe run scoreboard players set @s itm.off.dr 59
+execute if predicate item_check:offhand/stone_pickaxe run scoreboard players set @s itm.off.dr 131
+execute if predicate item_check:offhand/stone_axe run scoreboard players set @s itm.off.dr 131
+execute if predicate item_check:offhand/stone_sword run scoreboard players set @s itm.off.dr 131
+execute if predicate item_check:offhand/stone_shovel run scoreboard players set @s itm.off.dr 131
+execute if predicate item_check:offhand/stone_hoe run scoreboard players set @s itm.off.dr 131
+execute if predicate item_check:offhand/iron_pickaxe run scoreboard players set @s itm.off.dr 250
+execute if predicate item_check:offhand/iron_axe run scoreboard players set @s itm.off.dr 250
+execute if predicate item_check:offhand/iron_sword run scoreboard players set @s itm.off.dr 250
+execute if predicate item_check:offhand/iron_shovel run scoreboard players set @s itm.off.dr 250
+execute if predicate item_check:offhand/iron_hoe run scoreboard players set @s itm.off.dr 250
+execute if predicate item_check:offhand/golden_pickaxe run scoreboard players set @s itm.off.dr 32
+execute if predicate item_check:offhand/golden_axe run scoreboard players set @s itm.off.dr 32
+execute if predicate item_check:offhand/golden_sword run scoreboard players set @s itm.off.dr 32
+execute if predicate item_check:offhand/golden_shovel run scoreboard players set @s itm.off.dr 32
+execute if predicate item_check:offhand/golden_hoe run scoreboard players set @s itm.off.dr 32
+execute if predicate item_check:offhand/diamond_pickaxe run scoreboard players set @s itm.off.dr 1561
+execute if predicate item_check:offhand/diamond_axe run scoreboard players set @s itm.off.dr 1561
+execute if predicate item_check:offhand/diamond_sword run scoreboard players set @s itm.off.dr 1561
+execute if predicate item_check:offhand/diamond_shovel run scoreboard players set @s itm.off.dr 1561
+execute if predicate item_check:offhand/diamond_hoe run scoreboard players set @s itm.off.dr 1561
+execute if predicate item_check:offhand/netherite_sword run scoreboard players set @s itm.off.dr 2031
+execute if predicate item_check:offhand/netherite_axe run scoreboard players set @s itm.off.dr 2031
+execute if predicate item_check:offhand/netherite_hoe run scoreboard players set @s itm.off.dr 2031
+execute if predicate item_check:offhand/netherite_shovel run scoreboard players set @s itm.off.dr 2031
+execute if predicate item_check:offhand/netherite_pickaxe run scoreboard players set @s itm.off.dr 2031
+execute if predicate item_check:offhand/netherite_chestplate run scoreboard players set @s itm.off.dr 592
+execute if predicate item_check:offhand/diamond_chestplate run scoreboard players set @s itm.off.dr 528
+execute if predicate item_check:offhand/iron_chestplate run scoreboard players set @s itm.off.dr 240
+execute if predicate item_check:offhand/chainmail_chestplate run scoreboard players set @s itm.off.dr 240
+execute if predicate item_check:offhand/golden_chestplate run scoreboard players set @s itm.off.dr 112
+execute if predicate item_check:offhand/leather_chestplate run scoreboard players set @s itm.off.dr 80
+execute if predicate item_check:offhand/elytra run scoreboard players set @s itm.off.dr 431
+execute if predicate item_check:offhand/diamond_boots run scoreboard players set @s itm.off.dr 429
+execute if predicate item_check:offhand/iron_boots run scoreboard players set @s itm.off.dr 195
+execute if predicate item_check:offhand/chainmail_boots run scoreboard players set @s itm.off.dr 195
+execute if predicate item_check:offhand/golden_boots run scoreboard players set @s itm.off.dr 91
+execute if predicate item_check:offhand/leather_boots run scoreboard players set @s itm.off.dr 65
+execute if predicate item_check:offhand/netherite_boots run scoreboard players set @s itm.off.dr 481
+execute if predicate item_check:offhand/diamond_leggings run scoreboard players set @s itm.off.dr 495
+execute if predicate item_check:offhand/iron_leggings run scoreboard players set @s itm.off.dr 225
+execute if predicate item_check:offhand/chainmail_leggings run scoreboard players set @s itm.off.dr 225
+execute if predicate item_check:offhand/golden_leggings run scoreboard players set @s itm.off.dr 105
+execute if predicate item_check:offhand/leather_leggings run scoreboard players set @s itm.off.dr 75
+execute if predicate item_check:offhand/netherite_leggings run scoreboard players set @s itm.off.dr 555
+execute if predicate item_check:offhand/diamond_helmet run scoreboard players set @s itm.off.dr 363
+execute if predicate item_check:offhand/iron_helmet run scoreboard players set @s itm.off.dr 165
+execute if predicate item_check:offhand/chainmail_helmet run scoreboard players set @s itm.off.dr 165
+execute if predicate item_check:offhand/golden_helmet run scoreboard players set @s itm.off.dr 77
+execute if predicate item_check:offhand/leather_helmet run scoreboard players set @s itm.off.dr 55
+execute if predicate item_check:offhand/turtle_helmet run scoreboard players set @s itm.off.dr 275
+execute if predicate item_check:offhand/netherite_helmet run scoreboard players set @s itm.off.dr 407
 execute store result score @s itm.damage run data get entity @s Inventory[{Slot: -106b}].tag.Damage
 scoreboard players operation @s itm.off.dr -= @s itm.damage
+execute if score @s itm.off.dr matches ..0 run scoreboard players reset @s itm.off.dr
